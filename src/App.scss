@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  font-family: 'roboto', sans-serif;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 15px;
+  color: #f9b233;
+}
+
+.text p{
+  color: black;
+  font-weight: bold;
+}
+
+.fa-solid {
+  width: 10px;
+}
